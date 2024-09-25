@@ -102,16 +102,22 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
+      institution: 'IES Pere Calders',
+      degree: 'Scientific Baccalaureate',
+      from: '2010',
+      to: '2016',
+    },
+    {
+      institution: 'Universitat Autònoma de Barcelona (UAB)',
+      degree: 'Degree in Biochemistry (unfinished)',
+      from: '2016',
       to: '2019',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Centre de la Imatge i la Tecnologia Multimedia — CITM (UPC)',
+      degree: 'Degree in Video Game Design and Development',
+      from: '2021',
+      to: 'Current',
     },
   ],
   googleAnalytics: {
