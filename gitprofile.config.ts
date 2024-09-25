@@ -117,7 +117,7 @@ const CONFIG = {
     {
       institution: 'IES Pere Calders',
       degree: 'Scientific Baccalaureate',
-      from: '2010',
+      from: '2014',
       to: '2016',
     }, 
   ],
