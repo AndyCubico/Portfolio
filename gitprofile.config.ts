@@ -102,11 +102,11 @@ const CONFIG = {
     'Toon Boom Harmony',
   ],
   educations: [
-    {
-      institution: 'IES Pere Calders',
-      degree: 'Scientific Baccalaureate',
-      from: '2010',
-      to: '2016',
+     {
+      institution: 'Centre de la Imatge i la Tecnologia Multimedia — CITM (UPC)',
+      degree: 'Degree in Video Game Design and Development',
+      from: '2021',
+      to: 'Current',
     },
     {
       institution: 'Universitat Autònoma de Barcelona (UAB)',
@@ -115,11 +115,11 @@ const CONFIG = {
       to: '2019',
     },
     {
-      institution: 'Centre de la Imatge i la Tecnologia Multimedia — CITM (UPC)',
-      degree: 'Degree in Video Game Design and Development',
-      from: '2021',
-      to: 'Current',
-    },
+      institution: 'IES Pere Calders',
+      degree: 'Scientific Baccalaureate',
+      from: '2010',
+      to: '2016',
+    }, 
   ],
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
