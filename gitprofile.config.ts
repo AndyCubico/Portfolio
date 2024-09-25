@@ -38,7 +38,7 @@ const CONFIG = {
       header: 'Github Projects',
       mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
-        sortBy: 'stars', // Sort projects by 'stars' or 'updated'
+        sortBy: 'updated', // Sort projects by 'stars' or 'updated'
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
@@ -46,6 +46,7 @@ const CONFIG = {
         },
       },
       manual: {
+        sortBy: 'updated',
         // Properties for manually specifying projects
         projects: ['AndyCubico/CITM-Game-Jam-2024', 'AndyCubico/CITM_Fighters', 'AndyCubico/AI_Project', 
                    'AndyCubico/Formation_Motion', 'AndyCubico/Behaviour_Bricks', 'AndyCubico/RPG_Progression'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
