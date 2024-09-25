@@ -96,6 +96,7 @@ const CONFIG = {
     'Maya',
     '3DS Max',
     'Substance Painter',
+    'Wwise',
     'Toon Boom Harmony',
   ],
   educations: [
