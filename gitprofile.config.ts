@@ -28,7 +28,7 @@ const CONFIG = {
           description:
             'Pinky Engine is a Game Engine made by Andreu Nosàs Soler and Sara Qiao Martínez Mauri, as part of a college assignment from CITM (UPC) University, Terrassa, for the 3D engines subject during 3rd year of Game Design and Game Development degree. It features a GameObject & Component System, Resource Manager, Custom File Format,  Scene Serialization & Time management, Camera culling and frustum and a High-level System of User Interface',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github-production-user-asset-6210df.s3.amazonaws.com/93879867/296611446-3dbef10b-5e6b-4caf-b42c-89cf877f54ad.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T170110Z&X-Amz-Expires=300&X-Amz-Signature=2fa98993fb704e5eb8bc340344a7e07c0b534cd1d4b1e0295dd931f459737c1e&X-Amz-SignedHeaders=host',
           link: 'https://lsara-mm.github.io/Pinky_Engine/',
         },
         {
@@ -36,7 +36,7 @@ const CONFIG = {
           description:
             'Dreamward is the submission for the 7th Gran CITM Game Jam of Quokka Games Studio, in which I lead the team. You play as the Guardian of Dreams, facing peoples deepest fears in a challenging boss rush inspired by Souls-like games. It features 3 different bosses and the Nightmare Mode to offer an even a more challenging experience. ',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://img.itch.zone/aW1nLzE0ODkzOTk0LnBuZw==/347x500/VeyWPu.png',
           link: 'https://cubicoblanco.itch.io/dreamward',
         },
         {
@@ -44,7 +44,7 @@ const CONFIG = {
           description:
             'Submission for Indie Spain Jam. Being a basement elevator is so lonely. Especially since your dad was retired... you saw him go to the upper floors, but you cant get there! Suddenly a weird-looking mechanic called Ángel walks into you, adjusts a few screws, and tells you are ready for real grown-up elevator work! And he may even be able to reunite you with your father... but not until you have finished carrying passengers to their destinations!',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://img.itch.zone/aW1hZ2UvMTcxOTgzMC8xMDEzNjUwNi5wbmc=/original/As1%2BcM.png',
           link: 'https://kotzi.itch.io/elevngel',
         },
         {
@@ -92,7 +92,7 @@ const CONFIG = {
           description:
             'My first big project: a tribute to the Tetris created by Atari in 1988. Fully developed with SDL.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://camo.githubusercontent.com/4f7efadbc3eec7555d412fd7603f4e486ce135ca78da135abe0021dece50b6fd/68747470733a2f2f69302e77702e636f6d2f72656c697665616e64706c61792e636f6d2f77702d636f6e74656e742f75706c6f6164732f7465747269732d6172636164652d706f72746164612e6a70673f6669743d31313637253243373233',
           link: 'https://lsara-mm.github.io/project1-tetris/',
         },
       ],
