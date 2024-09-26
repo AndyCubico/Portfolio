@@ -58,7 +58,7 @@ const CONFIG = {
           description:
             'Twisted Tent is a dungeon crawling RPG set in a Freak Show in the Soviet Union just at the beginning of the Cold War, where you are trying to find an escape from the crude reality that surrounds you, until one day, a mysterious circus comes to your city. Without thinking twice, you enter there to try luck. It features a turn based tactical combat, a dark and mysterious narrative, a unique way of upgrading your character (you will gather materials and create your own equipment!).',
           imageUrl:
-            'https://raw.githubusercontent.com/lSara-MM/Project-II-RPG/refs/heads/main/Output/Assets/Textures/intro_bg.png',
+            'https://raw.githubusercontent.com/lSara-MM/Project-II-RPG/refs/heads/General/Output/Assets/Textures/cinematica_prota.png',
           link: 'https://lsara-mm.github.io/Project-II-RPG/',
         },
         {
