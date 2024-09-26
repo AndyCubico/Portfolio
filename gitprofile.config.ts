@@ -20,7 +20,7 @@ const CONFIG = {
           description:
             'Alien Extraction is a DIABLO-LIKE game themed in the ALIEN universe. Players will take on the role of an elite soldier sent to an alien-infested planet to clear it of all hostile forms. The action focuses on multi-level raids, where players will have to explore, fight against saga enemies, manage their resources carefully to survive and not die in their attempt to complete the mission and discover the truth.',
           imageUrl:
-            'https://private-user-images.githubusercontent.com/99948892/338591152-b2812924-745e-47c0-88cd-e15a675f1a38.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjczNjc3NTYsIm5iZiI6MTcyNzM2NzQ1NiwicGF0aCI6Ii85OTk0ODg5Mi8zMzg1OTExNTItYjI4MTI5MjQtNzQ1ZS00N2MwLTg4Y2QtZTE1YTY3NWYxYTM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI2VDE2MTczNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIyOGI2NmUzOGRhOTMwZGUyMmY2YjQ3NGVkZTU3N2EwMjA0YmQyZDY2N2MzMzgzMGQxNDk5NGMwNzQ0YmFjMjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2naZnzZAOjHjJdJb42PcdWWZ0p393es8434tbvqkGV4',
+            'https://github.com/Clapcom-Studios/Alien-Extraction/assets/99948892/b2812924-745e-47c0-88cd-e15a675f1a38',
           link: 'https://clapcom-studios.github.io/Website/',
         },
         {
@@ -28,7 +28,7 @@ const CONFIG = {
           description:
             'Pinky Engine is a Game Engine made by Andreu Nosàs Soler and Sara Qiao Martínez Mauri, as part of a college assignment from CITM (UPC) University, Terrassa, for the 3D engines subject during 3rd year of Game Design and Game Development degree. It features a GameObject & Component System, Resource Manager, Custom File Format,  Scene Serialization & Time management, Camera culling and frustum and a High-level System of User Interface',
           imageUrl:
-            'https://github-production-user-asset-6210df.s3.amazonaws.com/93879867/296611446-3dbef10b-5e6b-4caf-b42c-89cf877f54ad.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T170110Z&X-Amz-Expires=300&X-Amz-Signature=2fa98993fb704e5eb8bc340344a7e07c0b534cd1d4b1e0295dd931f459737c1e&X-Amz-SignedHeaders=host',
+            'https://github.com/lSara-MM/Pinky_Engine/assets/93879867/3dbef10b-5e6b-4caf-b42c-89cf877f54ad',
           link: 'https://lsara-mm.github.io/Pinky_Engine/',
         },
         {
@@ -68,7 +68,7 @@ const CONFIG = {
           description:
             'Join Pinkys new journey across the worlds to collect the Rosyte gemstones! Simple platformer for the first assignment of Game Development developed with SDL.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://raw.githubusercontent.com/lSara-MM/Pinky-Adventures/refs/heads/main/Pinky_Adventures/Output/Assets/Maps/intro_bg.png',
           link: 'https://github.com/lSara-MM/Pinky-Adventures',
         },
         {
@@ -76,7 +76,7 @@ const CONFIG = {
           description:
             'Worms-like game with a physics engine made in its entirety by Quokka Games Studio. Two teams shoot different kinds of projectiles in order to kill their opponents, winning the team with the last "worm" standing.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github-production-user-asset-6210df.s3.amazonaws.com/93879867/296611446-3dbef10b-5e6b-4caf-b42c-89cf877f54ad.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T170110Z&X-Amz-Expires=300&X-Amz-Signature=2fa98993fb704e5eb8bc340344a7e07c0b534cd1d4b1e0295dd931f459737c1e&X-Amz-SignedHeaders=host',
           link: 'https://github.com/lSara-MM/WormsQuokka',
         },
         {
@@ -84,7 +84,7 @@ const CONFIG = {
           description:
             'Mobile application developed with Flutter. It allows you to browse several Magic the Gathering cards from different collections using the Scryfall API, save them in a favourites tab, and create decks with them',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://raw.githubusercontent.com/Icefenix7198/CITM-API-MTG_Moviles/refs/heads/main/designs/StartWindow.png',
           link: 'https://github.com/Icefenix7198/CITM-API-MTG_Moviles?tab=readme-ov-file/',
         },
         {
