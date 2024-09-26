@@ -146,7 +146,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '.main/src/assets/Andreu-Nosas-CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'Andreu-Nosas-cv.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Unity',
