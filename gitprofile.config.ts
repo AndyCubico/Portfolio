@@ -18,10 +18,10 @@ const CONFIG = {
         {
           title: 'Project Name',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Alien Extraction is a DIABLO-LIKE game themed in the ALIEN universe.Players will take on the role of an elite soldier sent to an alien-infested planet to clear it of all hostile forms. The action focuses on multi-level raids, where players will have to explore, fight against saga enemies, manage their resources carefully to survive and not die in their attempt to complete the mission and discover the truth.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://private-user-images.githubusercontent.com/99948892/338591152-b2812924-745e-47c0-88cd-e15a675f1a38.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjczNjczMTUsIm5iZiI6MTcyNzM2NzAxNSwicGF0aCI6Ii85OTk0ODg5Mi8zMzg1OTExNTItYjI4MTI5MjQtNzQ1ZS00N2MwLTg4Y2QtZTE1YTY3NWYxYTM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI2VDE2MTAxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI4MzVlMjdmZDIyMDQ2MzQxYTIxMzc4NTE4NGM2Y2Q0YTM3MmIyM2EwNjc1OTEzZmYxZjZjZWIxNDYxZDAxYjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ia7N5zaJGdYAOccLZUxgLRYyR8ykcs-7SmtuXQb8g1Y',
+          link: 'https://clapcom-studios.github.io/Website/',
         },
         {
           title: 'Project Name',
