@@ -52,7 +52,7 @@ const CONFIG = {
           description:
             'Five Nights at Pedros is a virtual reality horror puzzle game based on the Five Nights at Freddys franchise by Scott Cawthon. The game takes place in a closed room with several key points that must be monitored or interacted with to stop the animatronics from attacking you and survive the night.',
           imageUrl:
-            '',
+            'https://github-production-user-asset-6210df.s3.amazonaws.com/93879867/296611446-3dbef10b-5e6b-4caf-b42c-89cf877f54ad.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T185605Z&X-Amz-Expires=300&X-Amz-Signature=8fd777922d25fd604eba50c8e082a08a4b35f802bdefc5f7b94a7e2f5ea1c5c3&X-Amz-SignedHeaders=host',
           link: 'https://github.com/TheimerTR/Five-Nights-At-Pedro-s',
         },
         {
@@ -76,7 +76,7 @@ const CONFIG = {
           description:
             'Worms-like game with a physics engine made in its entirety by Quokka Games Studio. Two teams shoot different kinds of projectiles in order to kill their opponents, winning the team with the last "worm" standing.',
            imageUrl:
-            '',
+            'https://github-production-user-asset-6210df.s3.amazonaws.com/93879867/296611446-3dbef10b-5e6b-4caf-b42c-89cf877f54ad.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T185605Z&X-Amz-Expires=300&X-Amz-Signature=8fd777922d25fd604eba50c8e082a08a4b35f802bdefc5f7b94a7e2f5ea1c5c3&X-Amz-SignedHeaders=host',
           link: 'https://github.com/lSara-MM/WormsQuokka',
         },
         {
