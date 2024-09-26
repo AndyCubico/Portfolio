@@ -42,7 +42,7 @@ const CONFIG = {
         {
           title: 'Elevángel',
           description:
-            'Submission for Indie Spain Jam. Being a basement elevator is so lonely. Especially since your dad was retired... you saw him go to the upper floors, but you cant get there! Suddenly a weird-looking mechanic called Ángel walks into you, adjusts a few screws, and tells you are ready for real grown-up elevator work! And he may even be able to reunite you with your father... but not until you have finished carrying passengers to their destinations!',
+            'Submission for the Indie Spain Jam 2022. Being a basement elevator is so lonely. Especially since your dad was retired... you saw him go to the upper floors, but you cant get there! Suddenly a weird-looking mechanic called Ángel walks into you, adjusts a few screws, and tells you are ready for real grown-up elevator work! And he may even be able to reunite you with your father... but not until you have finished carrying passengers to their destinations!',
           imageUrl:
             'https://img.itch.zone/aW1hZ2UvMTcxOTgzMC8xMDEzNjUwNi5wbmc=/original/As1%2BcM.png',
           link: 'https://kotzi.itch.io/elevngel',
