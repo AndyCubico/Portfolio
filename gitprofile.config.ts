@@ -146,7 +146,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'Andreu-Nosas-cv.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://scarlet-cori-53.tiiny.site/', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Unity',
