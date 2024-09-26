@@ -26,7 +26,7 @@ const CONFIG = {
         {
           title: 'Pinky Engine',
           description:
-            'Pinky Engine is a Game Engine made by Andreu Nosàs Soler and Sara Qiao Martínez Mauri, as part of a college assignment from CITM (UPC) University, Terrassa, for the 3D engines subject during 3rd year of Game Design and Game Development degree.',
+            'Pinky Engine is a Game Engine made by Andreu Nosàs Soler and Sara Qiao Martínez Mauri, as part of a college assignment from CITM (UPC) University, Terrassa, for the 3D engines subject during 3rd year of Game Design and Game Development degree. It features a GameObject & Component System, Resource Manager, Custom File Format,  Scene Serialization & Time management, Camera culling and frustum and a High-level System of User Interface',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://lsara-mm.github.io/Pinky_Engine/',
