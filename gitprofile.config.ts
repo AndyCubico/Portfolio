@@ -26,7 +26,7 @@ const CONFIG = {
         {
           title: 'Pinky Engine',
           description:
-            'Pinky Engine is a game engine developed from scratch, as part of a college assignment from CITM (UPC) University, Terrassa, for the 3D engines subject during 3rd year of Game Design and Game Development degree. It features a GameObject & Component System, Resource Manager, Custom File Format,  Scene Serialization & Time management, Camera culling and frustum and a High-level System of User Interface',
+            'Pinky Engine is a game engine developed from scratch, as part of a college assignment from CITM (UPC) University, Terrassa, for the 3D engines subject during 3rd year of Game Design and Game Development degree. It features a GameObject & Component System, Resource Manager, Custom File Format,  Scene Serialization, Time management, Camera culling and a High-level System of User Interface',
           imageUrl:
             'https://github.com/lSara-MM/Pinky_Engine/assets/93879867/3dbef10b-5e6b-4caf-b42c-89cf877f54ad',
           link: 'https://lsara-mm.github.io/Pinky_Engine/',
