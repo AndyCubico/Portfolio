@@ -16,7 +16,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Alien Extraction',
           description:
             'Alien Extraction is a DIABLO-LIKE game themed in the ALIEN universe. Players will take on the role of an elite soldier sent to an alien-infested planet to clear it of all hostile forms. The action focuses on multi-level raids, where players will have to explore, fight against saga enemies, manage their resources carefully to survive and not die in their attempt to complete the mission and discover the truth.',
           imageUrl:
@@ -24,12 +24,76 @@ const CONFIG = {
           link: 'https://clapcom-studios.github.io/Website/',
         },
         {
-          title: 'Project Name',
+          title: 'Pinky Engine',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Pinky Engine is a Game Engine made by Andreu Nosàs Soler and Sara Qiao Martínez Mauri, as part of a college assignment from CITM (UPC) University, Terrassa, for the 3D engines subject during 3rd year of Game Design and Game Development degree.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://lsara-mm.github.io/Pinky_Engine/',
+        },
+        {
+          title: 'Dreamward',
+          description:
+            'Dreamward is the submission for the 7th Gran CITM Game Jam of Quokka Games Studio, in which I lead the team. You play as the Guardian of Dreams, facing peoples deepest fears in a challenging boss rush inspired by Souls-like games. It features 3 different bosses and the Nightmare Mode to offer an even a more challenging experience. ',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://cubicoblanco.itch.io/dreamward',
+        },
+        {
+          title: 'Elevángel',
+          description:
+            'Submission for Indie Spain Jam. Being a basement elevator is so lonely. Especially since your dad was retired... you saw him go to the upper floors, but you cant get there! Suddenly a weird-looking mechanic called Ángel walks into you, adjusts a few screws, and tells you are ready for real grown-up elevator work! And he may even be able to reunite you with your father... but not until you have finished carrying passengers to their destinations!',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://kotzi.itch.io/elevngel',
+        },
+        {
+          title: 'Five Nights at Pedros',
+          description:
+            'Five Nights at Pedros is a virtual reality horror puzzle game based on the Five Nights at Freddys franchise by Scott Cawthon. The game takes place in a closed room with several key points that must be monitored or interacted with to stop the animatronics from attacking you and survive the night.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://github.com/TheimerTR/Five-Nights-At-Pedro-s',
+        },
+        {
+          title: 'Twisted Tent',
+          description:
+            'Twisted Tent is a dungeon crawling RPG set in a Freak Show in the Soviet Union just at the beginning of the Cold War, where you are trying to find an escape from the crude reality that surrounds you, until one day, a mysterious circus comes to your city. Without thinking twice, you enter there to try luck. It features a turn based tactical combat, a dark and mysterious narrative, a unique way of upgrading your character (you will gather materials and create your own equipment!).',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://lsara-mm.github.io/Project-II-RPG/',
+        },
+        {
+          title: 'Pinky Adventures',
+          description:
+            'Join Pinkys new journey across the worlds to collect the Rosyte gemstones! Simple platformer for the first assignment of Game Development developed with SDL.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://github.com/lSara-MM/Pinky-Adventures/tree/main/Pinky_Adventures',
+        },
+        {
+          title: 'Worms Quokka',
+          description:
+            'Worms-like game with a physics engine made in its entirety by Quokka Games Studio. Two teams shoot different kinds of projectiles in order to kill their opponents, winning the team with the last "worm" standing.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://github.com/lSara-MM/WormsQuokka',
+        },
+        {
+          title: 'Magic The Gathering Mobile App',
+          description:
+            'Mobile application developed with Flutter. It allows to browse several Magic the Gathering collections from the Scryfall API, save them in a favourites tab, and create decks with them',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://github.com/Icefenix7198/CITM-API-MTG_Moviles?tab=readme-ov-file/',
+        },
+        {
+          title: 'Tetris 1988',
+          description:
+            'My first big project: a tribute to the Tetris created by Atari in 1988. Fully developed with SDL.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://github.com/lSara-MM/project1-tetris',
         },
       ],
     },
