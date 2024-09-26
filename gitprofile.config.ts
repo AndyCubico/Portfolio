@@ -51,6 +51,8 @@ const CONFIG = {
           title: 'Five Nights at Pedros',
           description:
             'Five Nights at Pedros is a virtual reality horror puzzle game based on the Five Nights at Freddys franchise by Scott Cawthon. The game takes place in a closed room with several key points that must be monitored or interacted with to stop the animatronics from attacking you and survive the night.',
+          imageUrl:
+            '',
           link: 'https://github.com/TheimerTR/Five-Nights-At-Pedro-s',
         },
         {
@@ -73,6 +75,8 @@ const CONFIG = {
           title: 'Worms Quokka',
           description:
             'Worms-like game with a physics engine made in its entirety by Quokka Games Studio. Two teams shoot different kinds of projectiles in order to kill their opponents, winning the team with the last "worm" standing.',
+           imageUrl:
+            '',
           link: 'https://github.com/lSara-MM/WormsQuokka',
         },
         {
