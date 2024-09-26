@@ -69,7 +69,7 @@ const CONFIG = {
             'Join Pinkys new journey across the worlds to collect the Rosyte gemstones! Simple platformer for the first assignment of Game Development developed with SDL.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://github.com/lSara-MM/Pinky-Adventures/tree/main/Pinky_Adventures',
+          link: 'https://github.com/lSara-MM/Pinky-Adventures',
         },
         {
           title: 'Worms Quokka',
@@ -82,7 +82,7 @@ const CONFIG = {
         {
           title: 'Magic The Gathering Mobile App',
           description:
-            'Mobile application developed with Flutter. It allows to browse several Magic the Gathering collections from the Scryfall API, save them in a favourites tab, and create decks with them',
+            'Mobile application developed with Flutter. It allows you to browse several Magic the Gathering cards from different collections using the Scryfall API, save them in a favourites tab, and create decks with them',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://github.com/Icefenix7198/CITM-API-MTG_Moviles?tab=readme-ov-file/',
@@ -93,7 +93,7 @@ const CONFIG = {
             'My first big project: a tribute to the Tetris created by Atari in 1988. Fully developed with SDL.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://github.com/lSara-MM/project1-tetris',
+          link: 'https://lsara-mm.github.io/project1-tetris/',
         },
       ],
     },
