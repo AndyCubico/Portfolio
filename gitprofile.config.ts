@@ -48,12 +48,12 @@ const CONFIG = {
           link: 'https://kotzi.itch.io/elevngel',
         },
         {
-          title: 'Five Nights at Pedros',
+          title: 'Pinky Adventures',
           description:
-            'Five Nights at Pedros is a virtual reality horror puzzle game based on the Five Nights at Freddys franchise by Scott Cawthon. The game takes place in a closed room with several key points that must be monitored or interacted with to stop the animatronics from attacking you and survive the night.',
+            'Join Pinkys new journey across the worlds to collect the Rosyte gemstones! Simple platformer for the first assignment of Game Development developed with SDL.',
           imageUrl:
-            'DYLSA53PQK4ZA%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T185605Z&X-Amz-Expires=300&X-Amz-Signature=8fd777922d25fd604eba50c8e082a08a4b35f802bdefc5f7b94a7e2f5ea1c5c3&X-Amz-SignedHeaders=host',
-          link: 'https://github.com/TheimerTR/Five-Nights-At-Pedro-s',
+            'https://raw.githubusercontent.com/lSara-MM/Pinky-Adventures/refs/heads/main/Pinky_Adventures/Output/Assets/Maps/intro_bg.png',
+          link: 'https://github.com/lSara-MM/Pinky-Adventures',
         },
         {
           title: 'Twisted Tent',
@@ -64,12 +64,12 @@ const CONFIG = {
           link: 'https://lsara-mm.github.io/Project-II-RPG/',
         },
         {
-          title: 'Pinky Adventures',
+          title: 'Five Nights at Pedros',
           description:
-            'Join Pinkys new journey across the worlds to collect the Rosyte gemstones! Simple platformer for the first assignment of Game Development developed with SDL.',
+            'Five Nights at Pedros is a virtual reality horror puzzle game based on the Five Nights at Freddys franchise by Scott Cawthon. The game takes place in a closed room with several key points that must be monitored or interacted with to stop the animatronics from attacking you and survive the night.',
           imageUrl:
-            'https://raw.githubusercontent.com/lSara-MM/Pinky-Adventures/refs/heads/main/Pinky_Adventures/Output/Assets/Maps/intro_bg.png',
-          link: 'https://github.com/lSara-MM/Pinky-Adventures',
+            'DYLSA53PQK4ZA%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T185605Z&X-Amz-Expires=300&X-Amz-Signature=8fd777922d25fd604eba50c8e082a08a4b35f802bdefc5f7b94a7e2f5ea1c5c3&X-Amz-SignedHeaders=host',
+          link: 'https://github.com/TheimerTR/Five-Nights-At-Pedro-s',
         },
         {
           title: 'Worms Quokka',
