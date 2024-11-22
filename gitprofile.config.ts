@@ -40,6 +40,14 @@ const CONFIG = {
           link: 'https://cubicoblanco.itch.io/dreamward',
         },
         {
+          title: 'Cartalà',
+          description:
+            'Cartalà is a submission for the Premis Ludi 2024 event to create a video game prototype that highlights the richness and utility of the Catalan language in a fun and engaging way. It is a card-based, rogue-like game where you play with the syntax. Your mission is to learn about the different grammatical categories and how to use them effectively to create complex sentences and score points. ',
+          imageUrl:
+            'https://media.licdn.com/dms/image/v2/D4D22AQHk-Bp3J0v8Sg/feedshare-shrink_1280/feedshare-shrink_1280/0/1730468350402?e=1735171200&v=beta&t=D3CHxDrOdmcIt2sXaJEOHJein3mJ0_lRr00acTFPXXo',
+          link: 'https://cubicoblanco.itch.io/cartala',
+        },
+        {
           title: 'Elevángel',
           description:
             'Submission for the Indie Spain Jam 2022. Being a basement elevator is so lonely. Especially since your dad was retired... you saw him go to the upper floors, but you cant get there! Suddenly a weird-looking mechanic called Ángel walks into you, adjusts a few screws, and tells you are ready for real grown-up elevator work! And he may even be able to reunite you with your father... but not until you have finished carrying passengers to their destinations!',
@@ -70,14 +78,6 @@ const CONFIG = {
           imageUrl:
             'DYLSA53PQK4ZA%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T185605Z&X-Amz-Expires=300&X-Amz-Signature=8fd777922d25fd604eba50c8e082a08a4b35f802bdefc5f7b94a7e2f5ea1c5c3&X-Amz-SignedHeaders=host',
           link: 'https://github.com/TheimerTR/Five-Nights-At-Pedro-s',
-        },
-        {
-          title: 'Worms Quokka',
-          description:
-            'Worms-like game with a physics engine made in its entirety by Quokka Games Studio. Two teams shoot different kinds of projectiles in order to kill their opponents, winning the team with the last "worm" standing.',
-           imageUrl:
-            'F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T185605Z&X-Amz-Expires=300&X-Amz-Signature=8fd777922d25fd604eba50c8e082a08a4b35f802bdefc5f7b94a7e2f5ea1c5c3&X-Amz-SignedHeaders=host',
-          link: 'https://github.com/lSara-MM/WormsQuokka',
         },
         {
           title: 'Magic The Gathering Mobile App',
