@@ -56,6 +56,14 @@ const CONFIG = {
           link: 'https://kotzi.itch.io/elevngel',
         },
         {
+          title: 'Chimeras',
+          description:
+            'Chimeras is a tabletop card game where you play as a god! Yes, you heard that right, a literal god. Using cards that represent various body parts from animals and mythical creatures, you’ll craft monstrous hybrids, combining the strengths of each to forge the ultimate beast. Strategic card combinations unlock powerful synergies, granting you divine advantages in your quest to outwit and overpower your rivals. Are you ready to unleash your inner deity and create the ultimate monster? The battle of the gods begins here!',
+          imageUrl:
+            'https://img.itch.zone/aW1hZ2UvMTcxOTgzMC8xMDEzNjUwNi5wbmc=/original/As1%2BcM.png',
+          link: 'https://drive.google.com/file/d/16G1s7KoO0Qsz4i3lv1ohklv_gZfOsvMv/view?usp=sharing',
+        },
+        {
           title: 'Pinky Adventures',
           description:
             'Join Pinkys new journey across the worlds to collect the Rosyte gemstones! Simple platformer for the first assignment of Game Development developed with SDL.',
