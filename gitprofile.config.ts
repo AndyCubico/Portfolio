@@ -106,7 +106,7 @@ const CONFIG = {
       ],
     },
     github: {
-      display: true, // Display GitHub projects?
+      display: false, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
@@ -127,7 +127,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Andreu Nosàs',
-    description: 'I am a C++ and C# Video Game Developer, focused on both game design and programming. My primary interest lies in video game AI, and I aim to create lifelike behaviours for in-game agents that captivate the players. I’m eager to bring my skills and passion to a development role where I can help shape unforgettable gaming experiences.',
+    description: '',
     imageURL: '',
   },
   social: {
