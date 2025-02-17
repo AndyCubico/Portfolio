@@ -44,7 +44,7 @@ const CONFIG = {
           description:
             'Cartalà is a submission for the Premis Ludi 2024 event to create a video game prototype that highlights the richness and utility of the Catalan language in a fun and engaging way. It is a card-based, rogue-like game where you play with the syntax. Your mission is to learn about the different grammatical categories and how to use them effectively to create complex sentences and score points. ',
           imageUrl:
-            'https://media.licdn.com/dms/image/v2/D4D22AQHk-Bp3J0v8Sg/feedshare-shrink_1280/feedshare-shrink_1280/0/1730468350402?e=1735171200&v=beta&t=D3CHxDrOdmcIt2sXaJEOHJein3mJ0_lRr00acTFPXXo',
+            'https://img.itch.zone/aW1nLzE4Mzg2Njg2LnBuZw==/315x250%23c/W76ZJt.png',
           link: 'https://cubicoblanco.itch.io/cartala',
         },
         {
