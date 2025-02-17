@@ -15,6 +15,22 @@ const CONFIG = {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
+         {
+          title: 'Suits',
+          description:
+            'Suits is Quokka Games Studio’s submission for the 8th Gran CITM Game Jam, where it won the Best Game Award. It is a 2D puzzle-platformer where you transform your character into different shapes to overcome challenges. Solve puzzles in a world where sacrifice is the key to progress. Explore a surreal cube world where each face reveals hidden secrets, new challenges, and shifting perspectives.',
+          imageUrl:
+            'https://img.itch.zone/aW1nLzE5NjEzOTU1LnBuZw==/original/nDW6VD.png',
+          link: 'https://cubicoblanco.itch.io/suits',
+        },
+        {
+          title: 'Dreamward',
+          description:
+            'Dreamward is the submission for the 7th Gran CITM Game Jam of Quokka Games Studio. You play as the Guardian of Dreams, facing peoples deepest fears in a challenging boss rush inspired by Souls-like games. It features 3 different bosses and the Nightmare Mode to offer an even a more challenging experience. ',
+          imageUrl:
+            'https://img.itch.zone/aW1nLzE0ODkzOTk0LnBuZw==/347x500/VeyWPu.png',
+          link: 'https://cubicoblanco.itch.io/dreamward',
+        },
         {
           title: 'Alien Extraction',
           description:
@@ -30,14 +46,6 @@ const CONFIG = {
           imageUrl:
             'https://github.com/lSara-MM/Pinky_Engine/assets/93879867/3dbef10b-5e6b-4caf-b42c-89cf877f54ad',
           link: 'https://lsara-mm.github.io/Pinky_Engine/',
-        },
-        {
-          title: 'Dreamward',
-          description:
-            'Dreamward is the submission for the 7th Gran CITM Game Jam of Quokka Games Studio, in which I lead the team. You play as the Guardian of Dreams, facing peoples deepest fears in a challenging boss rush inspired by Souls-like games. It features 3 different bosses and the Nightmare Mode to offer an even a more challenging experience. ',
-          imageUrl:
-            'https://img.itch.zone/aW1nLzE0ODkzOTk0LnBuZw==/347x500/VeyWPu.png',
-          link: 'https://cubicoblanco.itch.io/dreamward',
         },
         {
           title: 'Cartalà',
