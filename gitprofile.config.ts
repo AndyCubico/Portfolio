@@ -88,14 +88,6 @@ const CONFIG = {
           link: 'https://lsara-mm.github.io/Project-II-RPG/',
         },
         {
-          title: 'Five Nights at Pedros',
-          description:
-            'Five Nights at Pedros is a virtual reality horror puzzle game based on the Five Nights at Freddys franchise by Scott Cawthon. The game takes place in a closed room with several key points that must be monitored or interacted with to stop the animatronics from attacking you and survive the night.',
-          imageUrl:
-            'DYLSA53PQK4ZA%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T185605Z&X-Amz-Expires=300&X-Amz-Signature=8fd777922d25fd604eba50c8e082a08a4b35f802bdefc5f7b94a7e2f5ea1c5c3&X-Amz-SignedHeaders=host',
-          link: 'https://github.com/TheimerTR/Five-Nights-At-Pedro-s',
-        },
-        {
           title: 'Magic The Gathering Mobile App',
           description:
             'Mobile application developed with Flutter. It allows you to browse several Magic the Gathering cards from different collections using the Scryfall API, save them in a favourites tab, and create decks with them',
