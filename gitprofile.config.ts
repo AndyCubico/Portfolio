@@ -26,7 +26,7 @@ const CONFIG = {
         {
           title: 'Dreamward',
           description:
-            'Dreamward is the submission for the 7th Gran CITM Game Jam of Quokka Games Studio. You play as the Guardian of Dreams, facing peoples deepest fears in a challenging boss rush inspired by Souls-like games. It features 3 different bosses and the Nightmare Mode to offer an even a more challenging experience. ',
+            'Dreamward is the submission for the 7th Gran CITM Game Jam of Quokka Games Studio. You play as the Guardian of Dreams, facing peoples deepest fears in a challenging boss rush inspired by Souls-like games. It features 3 different bosses and the Nightmare Mode to offer an even more challenging experience. ',
           imageUrl:
             'https://img.itch.zone/aW1nLzE0ODkzOTk0LnBuZw==/347x500/VeyWPu.png',
           link: 'https://cubicoblanco.itch.io/dreamward',
@@ -34,7 +34,7 @@ const CONFIG = {
         {
           title: 'Alien Extraction',
           description:
-            'Alien Extraction is a DIABLO-LIKE game themed in the ALIEN universe. Players will take on the role of an elite soldier sent to an alien-infested planet to clear it of all hostile forms. The action focuses on multi-level raids, where players will have to explore, fight against saga enemies, manage their resources carefully to survive and not die in their attempt to complete the mission and discover the truth.',
+            'Alien Extraction is a DIABLO-LIKE game themed in the ALIEN universe. Players will take on the role of an elite soldier sent to an alien-infested planet to clear it of all hostile forms. The action focuses on multi-level raids, where players will have to explore, fight against saga enemies, and manage their resources carefully to survive and not die in their attempt to complete the mission and discover the truth.',
           imageUrl:
             'https://github.com/Clapcom-Studios/Alien-Extraction/assets/99948892/b2812924-745e-47c0-88cd-e15a675f1a38',
           link: 'https://clapcom-studios.github.io/Website/',
@@ -42,7 +42,7 @@ const CONFIG = {
         {
           title: 'Pinky Engine',
           description:
-            'Pinky Engine is a game engine developed from scratch, as part of a college assignment from CITM (UPC) University, Terrassa, for the 3D engines subject during 3rd year of Game Design and Game Development degree. It features a GameObject & Component System, Resource Manager, Custom File Format,  Scene Serialization, Time management, Camera culling and a High-level System of User Interface',
+            'Pinky Engine is a game engine developed from scratch, as part of a college assignment from CITM (UPC) University, Terrassa, for the 3D engines subject during 3rd year of my Game Design and Game Development degree. It features a GameObject & Component System, Resource Manager, Custom File Format,  Scene Serialization, Time management, Camera culling and a High-level System of User Interface',
           imageUrl:
             'https://github.com/lSara-MM/Pinky_Engine/assets/93879867/3dbef10b-5e6b-4caf-b42c-89cf877f54ad',
           link: 'https://lsara-mm.github.io/Pinky_Engine/',
@@ -58,7 +58,7 @@ const CONFIG = {
         {
           title: 'Elevángel',
           description:
-            'Submission for the Indie Spain Jam 2022. Being a basement elevator is so lonely. Especially since your dad was retired... you saw him go to the upper floors, but you cant get there! Suddenly a weird-looking mechanic called Ángel walks into you, adjusts a few screws, and tells you are ready for real grown-up elevator work! And he may even be able to reunite you with your father... but not until you have finished carrying passengers to their destinations!',
+            'Submission for the Indie Spain Jam 2022. Being in a basement elevator is so lonely. Especially since your dad was retired... you saw him go to the upper floors, but you cant get there! Suddenly a weird-looking mechanic called Ángel walks into you, adjusts a few screws, and tells you are ready for real grown-up elevator work! And he may even be able to reunite you with your father... but not until you have finished carrying passengers to their destinations!',
           imageUrl:
             'https://img.itch.zone/aW1hZ2UvMTcxOTgzMC8xMDEzNjUwNi5wbmc=/original/As1%2BcM.png',
           link: 'https://kotzi.itch.io/elevngel',
@@ -74,7 +74,7 @@ const CONFIG = {
         {
           title: 'Pinky Adventures',
           description:
-            'Join Pinkys new journey across the worlds to collect the Rosyte gemstones! Simple platformer for the first assignment of Game Development developed with SDL.',
+            'Join Pinkys new journey across the world to collect the Rosyte gemstones! Simple platformer for the first assignment of Game Development developed with SDL.',
           imageUrl:
             'https://raw.githubusercontent.com/lSara-MM/Pinky-Adventures/refs/heads/main/Pinky_Adventures/Output/Assets/Maps/intro_bg.png',
           link: 'https://github.com/lSara-MM/Pinky-Adventures',
@@ -82,7 +82,7 @@ const CONFIG = {
         {
           title: 'Twisted Tent',
           description:
-            'Twisted Tent is a dungeon crawling RPG set in a Freak Show in the Soviet Union just at the beginning of the Cold War, where you are trying to find an escape from the crude reality that surrounds you, until one day, a mysterious circus comes to your city. Without thinking twice, you enter there to try luck. It features a turn based tactical combat, a dark and mysterious narrative, a unique way of upgrading your character (you will gather materials and create your own equipment!).',
+            'Twisted Tent is a dungeon-crawling RPG set in a Freak Show in the Soviet Union just at the beginning of the Cold War, where you are trying to find an escape from the crude reality that surrounds you, until one day, a mysterious circus comes to your city. Without thinking twice, you enter there to try your luck. It features a turn-based tactical combat, a dark and mysterious narrative, and a unique way of upgrading your character (you will gather materials and create your equipment!).',
           imageUrl:
             'https://raw.githubusercontent.com/lSara-MM/Project-II-RPG/refs/heads/General/Output/Assets/Textures/cinematica_prota.png',
           link: 'https://lsara-mm.github.io/Project-II-RPG/',
@@ -90,7 +90,7 @@ const CONFIG = {
         {
           title: 'Magic The Gathering Mobile App',
           description:
-            'Mobile application developed with Flutter. It allows you to browse several Magic the Gathering cards from different collections using the Scryfall API, save them in a favourites tab, and create decks with them',
+            'Mobile application developed with Flutter. It allows you to browse several Magic The Gathering cards from different collections using the Scryfall API, save them in a favourites tab, and create decks with them',
           imageUrl:
             'https://raw.githubusercontent.com/Icefenix7198/CITM-API-MTG_Moviles/refs/heads/main/designs/StartWindow.png',
           link: 'https://github.com/Icefenix7198/CITM-API-MTG_Moviles?tab=readme-ov-file/',
