@@ -17,7 +17,7 @@ const CONFIG = {
       projects: [
          {
           title: 'Suits',
-          description: 'Suits is Quokka Games Studio’s submission for the 8th Gran CITM Game Jam, where it won the Best Game Award.\n\nIt is a 2D puzzle-platformer where you transform your character into different shapes to overcome challenges.\n\nSolve puzzles in a world where sacrifice is the key to progress...',
+          description: 'Suits is Quokka Games Studio’s submission for the 8th Gran CITM Game Jam, where it won the Best Game Award. It is a 2D puzzle-platformer where you transform your character into different shapes to overcome challenges. Solve puzzles in a world where sacrifice is the key to progress. Explore a surreal cube world where each face reveals hidden secrets, new challenges, and shifting perspectives.',
           imageUrl:
             'https://img.itch.zone/aW1nLzE5NjEzOTU1LnBuZw==/original/nDW6VD.png',
           link: 'https://cubicoblanco.itch.io/suits',
