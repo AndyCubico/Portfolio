@@ -33,7 +33,7 @@ const CONFIG = {
         {
           title: 'Alien Extraction',
           description:
-            'Alien Extraction is a DIABLO-LIKE game themed in the ALIEN universe. Players will take on the role of an elite soldier sent to an alien-infested planet to clear it of all hostile forms. The action focuses on multi-level raids, where players will have to explore, fight against saga enemies, and manage their resources carefully to survive and not die in their attempt to complete the mission and discover the truth.',
+            'Alien Extraction is a DIABLO-LIKE game themed in the ALIEN universe. The action focuses on multi-level raids, where players will have to explore, fight against saga enemies, and manage their resources carefully to survive and not die in their attempt to complete the mission and discover the truth.',
           imageUrl:
             'https://github.com/Clapcom-Studios/Alien-Extraction/assets/99948892/b2812924-745e-47c0-88cd-e15a675f1a38',
           link: 'https://clapcom-studios.github.io/Website/',
@@ -49,7 +49,7 @@ const CONFIG = {
         {
           title: 'Cartalà',
           description:
-            'Cartalà is a submission for the Premis Ludi 2024 event to create a video game prototype that highlights the richness and utility of the Catalan language in a fun and engaging way. It is a card-based, rogue-like game where you play with the syntax. Your mission is to learn about the different grammatical categories and how to use them effectively to create complex sentences and score points. ',
+            'Cartalà is a submission for the Premis Ludi 2024 event to create a video game prototype that highlights the richness and utility of the Catalan language in a fun and engaging way. It is a card-based, rogue-like game where you play with the syntax.',
           imageUrl:
             'https://img.itch.zone/aW1nLzE4Mzg2Njg2LnBuZw==/315x250%23c/W76ZJt.png',
           link: 'https://cubicoblanco.itch.io/cartala',
@@ -57,7 +57,7 @@ const CONFIG = {
         {
           title: 'Elevángel',
           description:
-            'Submission for the Indie Spain Jam 2022. Being in a basement elevator is so lonely. Especially since your dad was retired... you saw him go to the upper floors, but you cant get there! Suddenly a weird-looking mechanic called Ángel walks into you, adjusts a few screws, and tells you are ready for real grown-up elevator work! And he may even be able to reunite you with your father... but not until you have finished carrying passengers to their destinations!',
+            'Submission for the Indie Spain Jam 2022. Being in a basement elevator is so lonely. Especially since your dad was retired... you saw him go to the upper floors, but you cant get there! Suddenly a weird-looking mechanic called Ángel walks into you, adjusts a few screws, and tells you are ready for real grown-up elevator work!',
           imageUrl:
             'https://img.itch.zone/aW1hZ2UvMTcxOTgzMC8xMDEzNjUwNi5wbmc=/original/As1%2BcM.png',
           link: 'https://kotzi.itch.io/elevngel',
@@ -65,9 +65,9 @@ const CONFIG = {
         {
           title: 'Chimeras',
           description:
-            'Chimeras is a tabletop card game where you play as a god. Yes, you heard that right, a literal god. Using cards that represent various body parts from animals and mythical creatures, you’ll craft monstrous hybrids, combining the strengths of each to forge the ultimate beast. Strategic card combinations unlock powerful synergies, granting you divine advantages in your quest to outwit and overpower your rivals. Are you ready to unleash your inner deity and create the ultimate monster? The battle of the gods begins here!',
+            'Chimeras is a tabletop card game where you play as a god. Yes, you heard that right, a literal god. Using cards that represent various body parts from animals and mythical creatures, you’ll craft monstrous hybrids, combining the strengths of each to forge the ultimate beast.',
           imageUrl:
-            'https://i.ibb.co/WcB6tWR/Sell-Sheet.png',
+            'https://github.com/AndyCubico/Portfolio/blob/main/src/assets/Sell%20Sheet.png?raw=true',
           link: 'https://drive.google.com/file/d/16G1s7KoO0Qsz4i3lv1ohklv_gZfOsvMv/view?usp=sharing',
         },
         {
@@ -81,18 +81,10 @@ const CONFIG = {
         {
           title: 'Twisted Tent',
           description:
-            'Twisted Tent is a dungeon-crawling RPG set in a Freak Show in the Soviet Union just at the beginning of the Cold War, where you are trying to find an escape from the crude reality that surrounds you, until one day, a mysterious circus comes to your city. Without thinking twice, you enter there to try your luck. It features a turn-based tactical combat, a dark and mysterious narrative, and a unique way of upgrading your character (you will gather materials and create your equipment!).',
+            'Twisted Tent is a dungeon-crawling RPG set in a Freak Show in the Soviet Union. It features a turn-based tactical combat, a dark and mysterious narrative, and a unique way of upgrading your character (you will gather materials and create your equipment!).',
           imageUrl:
             'https://raw.githubusercontent.com/lSara-MM/Project-II-RPG/refs/heads/General/Output/Assets/Textures/cinematica_prota.png',
           link: 'https://lsara-mm.github.io/Project-II-RPG/',
-        },
-        {
-          title: 'Magic The Gathering Mobile App',
-          description:
-            'Mobile application developed with Flutter. It allows you to browse several Magic The Gathering cards from different collections using the Scryfall API, save them in a favourites tab, and create decks with them',
-          imageUrl:
-            'https://raw.githubusercontent.com/Icefenix7198/CITM-API-MTG_Moviles/refs/heads/main/designs/StartWindow.png',
-          link: 'https://github.com/Icefenix7198/CITM-API-MTG_Moviles?tab=readme-ov-file/',
         },
         {
           title: 'Tetris 1988',
