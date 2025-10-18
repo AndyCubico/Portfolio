@@ -123,7 +123,7 @@ const CONFIG = {
   },
   social: {
     linkedin: 'andreu-nosàs-soler',
-    twitter: 'Cubico_Blanco',
+    twitter: '',
     mastodon: '',
     researchGate: '',
     facebook: '',
