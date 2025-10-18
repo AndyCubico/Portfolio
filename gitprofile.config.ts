@@ -169,7 +169,7 @@ const CONFIG = {
       institution: 'Centre de la Imatge i la Tecnologia Multimedia — CITM (UPC)',
       degree: 'Degree in Video Game Design and Development',
       from: '2021',
-      to: 'Current',
+      to: '2025',
     },
     {
       institution: 'Universitat Autònoma de Barcelona (UAB)',
