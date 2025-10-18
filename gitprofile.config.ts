@@ -91,7 +91,7 @@ const CONFIG = {
           description:
             'My first big project: a tribute to the Tetris created by Atari in 1988. Fully developed with SDL.',
           imageUrl:
-            'https://camo.githubusercontent.com/4f7efadbc3eec7555d412fd7603f4e486ce135ca78da135abe0021dece50b6fd/68747470733a2f2f69302e77702e636f6d2f72656c697665616e64706c61792e636f6d2f77702d636f6e74656e742f75706c6f6164732f7465747269732d6172636164652d706f72746164612e6a70673f6669743d31313637253243373233',
+            'https://raw.githubusercontent.com/lSara-MM/project1-tetris/main/SS/Design/round1.png',
           link: 'https://lsara-mm.github.io/project1-tetris/',
         },
       ],
