@@ -146,7 +146,6 @@ const CONFIG = {
   resume: {
     fileUrl:
       '', // Empty fileUrl will hide the `Download Resume` button.
-    // https://andreu-nosas-cv.tiiny.site
   },
   skills: [
     'Unity',
